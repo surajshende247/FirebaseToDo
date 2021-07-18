@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "353450133356",
+    "firebase_url": "https://july-sample-default-rtdb.firebaseio.com",
+    "project_id": "july-sample",
+    "storage_bucket": "july-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353450133356:android:d6589b75f22c86a9929549",
+        "android_client_info": {
+          "package_name": "org.roadtocode.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnei3k2P4mJMy36wa3XSsaxnu7P8VbHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353450133356:android:b0f99609b2c4ea80929549",
+        "android_client_info": {
+          "package_name": "org.roadtocode.myrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnei3k2P4mJMy36wa3XSsaxnu7P8VbHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353450133356:android:003c4eeef3dd47c2929549",
+        "android_client_info": {
+          "package_name": "org.roadtocode.sampletodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnei3k2P4mJMy36wa3XSsaxnu7P8VbHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353450133356-4je9phdcsr993tlgggbneu5bccqddc4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
